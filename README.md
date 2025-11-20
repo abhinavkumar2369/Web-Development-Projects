@@ -83,6 +83,20 @@ Search through various cuisines and save your favorite recipes.
 
 <br>
 
+## ➡️ GitHub Profile Viewer
+Search and explore GitHub user profiles with comprehensive information and repository data.
+Built with modern design and real-time API integration for seamless user experience.
+
+- Search GitHub users by username
+- Display comprehensive profile information
+- Show user statistics and repository data
+- Responsive design with beautiful UI
+- Share profile functionality
+
+![screenshot](GitHub%20Profile%20Viewer/screenshot.png)
+
+<br>
+
 ## ➡️ Live Code Editor
 An interactive code editor that allows real-time HTML, CSS, and JavaScript editing.
 See your code changes instantly with live preview functionality.

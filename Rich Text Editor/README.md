@@ -12,6 +12,7 @@ A modern, feature-rich text editor built with HTML, CSS, and JavaScript. This ed
 - **Content Elements**: Add lists, links, images, tables, and live preview.
 - **Advanced Features**: Undo/Redo, dark mode, fullscreen, word count, and responsive design.
 
+
 ## Technical Features
 
 ### 🛠️ **Built With**
